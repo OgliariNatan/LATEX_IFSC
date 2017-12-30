@@ -1,5 +1,5 @@
 <h1> LATEX_IFSC </h1>
 <p>
-Projeto a futuro para criar um template de documentos para o IFSC. <\br>
+Projeto a futuro para criar um template de documentos para o IFSC. < br \>
 Em implementação...<br \ >
 </p>
